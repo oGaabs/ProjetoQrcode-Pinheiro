@@ -9,6 +9,8 @@ Este é um Projeto Escolar que visou identificar uma árvore na escola e assim d
 
 O mesmo trabalho foi desenvolvido em até 6 pessoas, durante a matéria de Biologia do 3°ano do ensino médio, na Escola Estadual Julia Calhau Rodrigues com a Professora Cintia.
 
+Ficha Técnica disponivel em: [Vercel APP](https://projeto-qrcode-pinheiro.vercel.app/) & [GitHub Pages](https://punigc.github.io/ProjetoQrcode-Pinheiro/)
+
 ## Contributing
 
 Fique à vontade para enviar sugestões, dar dicas ou até mesmo reconstruir o código.
