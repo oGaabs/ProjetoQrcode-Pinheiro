@@ -1,6 +1,6 @@
 <a href="https://projeto-qrcode-pinheiro.vercel.app/" target="_blank">
-    <img align="center" alt="Tela de Exemplo da Ficha tecnica" src="https://user-images.githubusercontent.com/53992405/172761339-83545922-2013-4270-a65a-208a272896bd.png" height="300" width="500"/>
-    <img align="center" alt="Tela de Exemplo da Ficha tecnica" src="https://user-images.githubusercontent.com/53992405/172761071-a7d4cebc-0f8d-4d0b-9738-e19603d07f0b.png" height="300" width="400"/>
+    <img align="center" alt="Tela de Exemplo da Ficha tecnica"height="300" width="400"alt="Tela de Exemplo da Ficha tecnica" src="https://user-images.githubusercontent.com/53992405/172761339-83545922-2013-4270-a65a-208a272896bd.png" />
+    <img align="center" alt="Semente do pinheiro"  height="300" width="300" src="https://user-images.githubusercontent.com/53992405/172761071-a7d4cebc-0f8d-4d0b-9738-e19603d07f0b.png"/>
 </a>
 
 # ProjetoQrcode-Pinheiro
