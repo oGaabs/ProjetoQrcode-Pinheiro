@@ -29,7 +29,7 @@ Fique à vontade para enviar sugestões, dar dicas ou até mesmo reconstruir o c
 * **Bianca** - *Owner*
 * **Silvina** - *Owner*
 * **Eduardo** - *Owner*
-* **Mateus** - *Owner* 
+* **Matheus** - *Owner* 
 
 ## License
 
