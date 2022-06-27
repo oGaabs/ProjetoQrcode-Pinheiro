@@ -26,8 +26,10 @@ Fique à vontade para enviar sugestões, dar dicas ou até mesmo reconstruir o c
 
 * **Gabriel Santana Silva** - *Owner* - [Instagram][instagram]
 * **Poli** - *Owner* - [Instagram](https://www.instagram.com/poli_cotrim/)
-* **Mateus** - *Owner* - 
-* **Joao** - *Owner* - 
+* **Bianca** - *Owner*
+* **Silvina** - *Owner*
+* **Eduardo** - *Owner*
+* **Mateus** - *Owner* 
 
 ## License
 
